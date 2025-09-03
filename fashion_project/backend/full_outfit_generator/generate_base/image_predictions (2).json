@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "articleType": "Flip Flops",
+        "Category": "Footwear",
+        "Event": "Casual"
+    },
+    {
+        "id": "1",
+        "articleType": "Shirts",
+        "Category": "Topwear",
+        "Event": "Casual"
+    },
+    {
+        "id": "2",
+        "articleType": "Shorts",
+        "Category": "Bottomwear",
+        "Event": "Casual"
+    },
+    {
+        "id": "243",
+        "articleType": "Sandals",
+        "Category": "Footwear",
+        "Event": "Casual"
+    },
+    {
+        "id": "4",
+        "articleType": "Sweatshirts",
+        "Category": "Topwear",
+        "Event": "Casual"
+    }
+]

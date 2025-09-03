@@ -1,0 +1,10 @@
+# Ignore specific folders
+full_outfit_generator/outfit_transformer/datasets/
+full_outfit_generator/outfit_transformer/datasets/my_content/
+sudha/outfit_transformer/saved_images/
+DATASET/
+saved_images/
+temp/
+
+# Ignore all .zip files
+*.zip

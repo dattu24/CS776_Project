@@ -1,0 +1,15 @@
+matplotlib==3.8.3
+numpy==1.26.4
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+opencv_python_headless==4.11.0.86
+pandas==2.2.1
+pydantic==2.11.3
+Pillow==11.2.1
+rembg==2.0.65
+scikit_learn==1.2.2
+spacy==3.8.5
+torch==2.6.0
+torchvision==0.21.0
+tqdm==4.66.1
+transformers==4.51.1
